@@ -10,4 +10,10 @@ This is an operating system created specifically to run live on a USB or similar
 
 3. `suave` is the default username.
 
+4. Debian `live-build` was the tool used to configure and create the custom build for SuaveOS.
+
+5. This repo contains the config files used to make `live-build` build SuaveOS. A pre-built .iso file of SuaveOS can be found in the **Releases** of this repo.
+
+The files in this repo correspond to those of a Debian `live-build` project. This repo is designed such that you can clone it, init a `live-build` project in another directory, replace the files in the `live-build` project directory with the ones in the repo, and then build SuaveOS with `lb-build`.
+
 This project was started on January 22, 2022
