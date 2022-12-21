@@ -115,5 +115,8 @@ fi
 # 2022/3/6 Add custom bit for flashy neofetch start every time bash opens.
 neofetch --ascii ~/SuaveOS/Art/ASCIILogo.txt
 
-# 2022/3/6 Custom neofetch alias
+# 2022/3/6 Custom neofetch alias.
 alias neofetch="neofetch --ascii ~/SuaveOS/Art/ASCIILogo.txt"
+
+# 2022/12/21 Added custom alias for volume control.
+alias volume="alsamixer"
