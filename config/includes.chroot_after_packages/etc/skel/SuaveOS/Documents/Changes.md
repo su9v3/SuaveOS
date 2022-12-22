@@ -48,7 +48,8 @@ These are just custom configuration files for software already installed on the 
 1. `~/.config/gtk-3.0/settings.ini` - GTK theme configuration.
 2. `/lib/systemd/system/apparmor.service` - added custom bit to fix "snap-confine has elevated permissions..." issue. Information from [here](https://forums.whonix.org/t/live-mode-breaks-apparmor/7559/12).
 3. `~/.xinitrc` - configuration for "startx" command for Xorg.
-4. `.bashrc` - configured an alia for Neofetch.
+4. `.bashrc` - configured an alias for Neofetch. Now the command **"neofetch"** shows a custom logo and computer information.
+5. `.bashrc` - configured an alias for "alsamixer". Now, just type in the command **"volume"** and the alsamixer volume control TUI will show.
 
 ### **Custom Scripts:**
 A handful of custom scripts I programmed to assist with controlling various aspects of SuaveOS. All of these are stored in `/usr/bin` and can be launched simply by typing `sudo <custom script>` or just typing `<custom script>` in the command line.
