@@ -11,6 +11,8 @@ These changes only include installing personally selected software and such, no 
 3. Arc Theme - GTK Theme.
 4. Neofetch - looks good.
 5. Snapd - installs stuff.
+6. Neovim - text editor.
+7. Kodi - media player.
 
 ### **Changes With Configuration:**
 These changes involved installing hand-picked software and customizing their corresponding configuration files to make the software look and feel the way I like.
