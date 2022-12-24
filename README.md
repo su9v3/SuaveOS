@@ -14,7 +14,7 @@ This is an operating system created specifically to run live on a USB or similar
 
 5. This repo contains the config files used to make `live-build` build SuaveOS. A pre-built .iso file of SuaveOS can be found in the **Releases** of this repo.
 
-6. The default username and password of this operating system is "suave" and "toor" respectively.
+6. The default username and password of this operating system is "suave" and "live" respectively.
 
 The files in this repo correspond to those of a Debian `live-build` project. This repo is designed such that you can clone it, init a `live-build` project in another directory, replace the files in the `live-build` project directory with the ones in the repo, and then build SuaveOS with `lb-build`.
 
